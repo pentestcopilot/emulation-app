@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emulation</string>
+    <string name="unsafe_mode_title">Modo não seguro detectado</string>
+    <string name="support_button_text">Detecção de Emulação</string>
+    <string name="device_info_loading">Carregando...</string>
+    <string name="splash_scree_loading">Verificando ambiente...</string>
+    <string name="unsafe_mode_message">Foi detectado que este aplicativo está sendo executado em um ambiente emulado.\n\nClique no botão abaixo para saber mais sobre emulação e conhecer estratégias comuns para contornar essa camada de proteção.</string>
+    <string name="safe_mode_title">Dispositivo real detectado</string>
+    <string name="safe_mode_message">O aplicativo está sendo executado em um ambiente seguro. Conheça mais sobre deteção de emulação clicando no botão abaixo.</string>
+    <string name="device_info_template">Emulador: %1$s\nMarca: %2$s\nFabricante: %3$s\nModelo: %4$s\nSistema operacional: Android %5$s\nTags: %6$s</string>
+</resources>

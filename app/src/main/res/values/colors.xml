@@ -1,0 +1,10 @@
+<resources>
+    <color name="background_main">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#555555</color>
+    <color name="button_background">#1D1D2E</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="circle_red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="logo_color">#000000</color>
+</resources>
